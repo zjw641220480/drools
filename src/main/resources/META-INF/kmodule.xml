@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
+	<!-- <kbase name="rules" packages="rules"> <ksession name="ksession-rules"/> 
+		</kbase> -->
+	<!-- <kbase name="rules" packages="com.credan">
+		<ksession name="session-rules" />
+	</kbase> -->
+	<kbase name="baseupdate" packages="droolstest.testupdate">
+		<ksession name="update"></ksession>
+	</kbase>
+	<kbase name="baseinsert" packages="droolstest.testinsert">
+		<ksession name="insert"></ksession>
+	</kbase>
+	<kbase name="basetest" packages="droolstest.test">
+		<ksession name="test"></ksession>
+	</kbase>
+</kmodule>

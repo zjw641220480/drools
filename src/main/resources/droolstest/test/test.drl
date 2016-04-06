@@ -1,0 +1,11 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+
+rule "rule"
+	when 
+		$Person:Person(age>20&&name=='zhangsan')
+	then
+		System.out.println("年龄大于20");
+end

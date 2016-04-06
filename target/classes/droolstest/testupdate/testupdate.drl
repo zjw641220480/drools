@@ -1,0 +1,16 @@
+package com.itcast.zjw.testupdate;
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+
+rule "update"
+	no-loop true
+	when 
+		$Person:Person(name=='zhangsan'&&age<110)
+	then
+		$Person.setAge($Person.getAge()+10);
+		//这里需要注意,update之后会和所有的规则再重新匹配一次,很有可能会陷入死循环
+		System.out.println("对象没有发生更改"+$Person.getAge());
+		update($Person)
+		System.out.println($Person.getAge());
+end

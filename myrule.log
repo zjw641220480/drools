@@ -1,0 +1,39 @@
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+360  [main] WARN  org.drools.compiler.kie.builder.impl.AbstractKieModule  - No files found for KieBase rules, searching folder D:\newworkspace\drools\target\classes
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+343  [main] WARN  org.drools.compiler.kie.builder.impl.AbstractKieModule  - No files found for KieBase rules, searching folder D:\newworkspace\drools\target\classes
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+192  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+202  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+202  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+362  [main] WARN  org.drools.compiler.kie.builder.impl.AbstractKieModule  - No files found for KieBase rules, searching folder D:\newworkspace\drools\target\classes
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+190  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 9; columnNumber: 27; cvc-id.2: ID 值 'update' 出现了多次。
+190  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+190  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]

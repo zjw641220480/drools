@@ -1,0 +1,26 @@
+package com.itcast.zjw.testinsert
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+
+rule "insert1"
+	salience 1
+	when
+		eval(true)
+	then
+		//当在代码中有手动插入的时候,这里就不再需要了
+		Person person = new Person();
+		person.setName("zhangsan");
+		insert(person);
+		System.out.println("运行的是insert1");
+end
+
+rule "insert2"
+	salience 2
+	when
+		$Person:Person(name=="zhangsan");
+	then
+		System.out.println("运行的是insert2");
+		System.out.println("年龄是"+$Person.getName());
+end
+		
