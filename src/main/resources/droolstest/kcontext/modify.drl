@@ -1,0 +1,16 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Student;
+
+rule 'testKcontext'
+	when
+		$student:Student(sname=="测试modify");
+	then
+	//modify模块中不允许出现";"	而且各个设置的值之间是使用","隔开的
+		modify($student){
+			setSname("运行modify模块后的值"),
+			setSage(30)
+		}
+		System.out.println("运行modify负责结束");
+end

@@ -1,0 +1,15 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+
+rule "ruleageage"
+	no-loop true
+	when 
+		$Person:Person(age>20)
+	then
+		System.out.println($Person.getAge());
+		$Person.setAge($Person.getAge()+100);
+		//System.out.println($Person.setAge(100));
+		System.out.println("年龄大于20");
+end

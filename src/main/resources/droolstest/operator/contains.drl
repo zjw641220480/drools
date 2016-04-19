@@ -1,0 +1,14 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Student;
+
+rule 'testMatches'
+	when
+	//两个条件是且的关系
+		$student:Student();
+		$person:Person(age > 20 && students contains $student);
+	then
+		System.out.println($student.getSname());
+		System.out.println($person.getName());
+end

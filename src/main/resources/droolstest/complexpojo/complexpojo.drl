@@ -1,0 +1,20 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+import com.itcast.zjw.drools.domain.Student;
+
+rule "rulecomplex"
+	no-loop true
+	when 
+		//多行不同对象之间的条件判断,其也是且的关系,带有from的时候只需要传递过来一个对象即可
+		$Person:Person(age>20);
+		//$Student:Student(sage<20) from $Person.student;
+		$Student:Student(sage<20) from $Person.students;
+	then
+		System.out.println("学生年龄小于20");
+		System.out.println($Person.getAge());
+		$Person.setAge($Person.getAge()+100);
+		//System.out.println($Person.setAge(100));
+		System.out.println("年龄大于20");
+end

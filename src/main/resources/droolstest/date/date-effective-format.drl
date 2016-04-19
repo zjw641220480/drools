@@ -1,0 +1,13 @@
+package com.itcast.zjw.test
+
+rule "ruledate-effective-format"
+	lock-on-active true
+	//设置生效时间
+	//当这个起作用的时候,没有格式化过的就不会起作用
+	date-effective "2016-04-16"
+	date-expires "2016-04-30"
+	when
+		eval(true)
+	then
+		System.out.println("在规则运行时间范围内运行,时间格式已经是被格式化过了,过期时间为2016-04-30");
+end

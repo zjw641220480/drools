@@ -1,0 +1,9 @@
+package com.itcast.zjw.testdrools
+
+rule "evlaTest"
+	when
+		eval( true )
+	then
+		System.out.println("eval运行");
+		
+end

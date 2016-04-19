@@ -1,0 +1,16 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+
+rule "ruleperson"
+	no-loop true
+	when 
+		//先对条件多的进行判断,然后判断条件少的
+		$Person:Person(age>20&&name=="zhangsan")
+	then
+		System.out.println("同时满足");
+		$Person.setAge($Person.getAge()+200);
+		//System.out.println($Person.setAge(100));
+		//System.out.println("年龄大于20");
+end

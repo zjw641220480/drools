@@ -1,0 +1,12 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+
+rule "ruleagename"
+	no-loop true
+	when 
+		$Person:Person(name=="zhangsan")
+	then
+		System.out.println("name的值未zhangsan");
+end

@@ -1,0 +1,13 @@
+package com.itcast.zjw.test
+
+import com.itcast.zjw.drools.domain.Student;
+
+rule "ruledate"
+	lock-on-active true
+	//设置生效时间
+	//当这个起作用的时候,没有格式化过的就不会起作用
+	when
+		$student:Student(date<'2016-04-30');
+	then
+		System.out.println("Student对象中对时间的判断");
+end

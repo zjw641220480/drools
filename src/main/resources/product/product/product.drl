@@ -1,0 +1,21 @@
+    package com.order;  
+      
+    import com.itcast.zjw.drools.domain.product.Product;  
+    import com.itcast.zjw.drools.domain.product.Order;  
+      
+    rule "products"  
+        salience 2  
+        when  
+            $order : Order();  
+            $product : Product(count >= 3) from $order.products;//从list中取出每个product  
+        then  
+            $product.setDiscount(0.9);//产品数量超过2个，则该产品打9折  
+    end  
+      
+    rule "order"  
+        salience 1  
+        when  
+            order:Order(getTotal() > 1000);  
+        then  
+            order.setCash(50);//总价钱超过1000，立减50  
+    end  

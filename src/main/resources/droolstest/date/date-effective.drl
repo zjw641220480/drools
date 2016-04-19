@@ -1,0 +1,17 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+import com.itcast.zjw.drools.domain.Student;
+
+/*rule "ruledate-effective"
+	no-loop true
+	//设置生效时间
+	//date-effective "19-四月-2016"
+	when
+		eval(true)
+	then
+		System.out.println("在规则运行时间范围内运行");
+end
+*/
+

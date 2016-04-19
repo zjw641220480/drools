@@ -1,0 +1,38 @@
+package com.itcast.zjw.test
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Classes;
+import com.itcast.zjw.drools.domain.Student;
+rule "ruleactivation-grop李"
+	salience 2
+	lock-on-active true
+	activation-group "name"
+	when
+		$student:Student(sname matches "李.*");
+	then
+		System.out.println($student.getSname());
+		System.out.println("运行的是规则组中的\t李开头的规则");
+end
+
+rule "ruleactivation-grop张"
+	salience 3
+	lock-on-active true
+	activation-group "name"
+	when
+		$student:Student(sname matches "张.*");
+	then
+		System.out.println($student.getSname());
+		System.out.println("运行的是规则组中的\t张开头的规则");
+end
+//当有此规则的时候,下面的都不会再执行,他们三个是一组的
+rule "ruleactivation-gropOR"
+	salience 4
+	lock-on-active true
+	//没有这个属性的时候,这个执行完之后,上面的两个也还会继续执行
+	//activation-group "name"
+	when
+		$student:Student(sname matches "张.*" || sname matches "李.*");
+	then
+		System.out.println($student.getSname());
+		System.out.println("两个中有一个满足即可,然后下面的不会再运行");
+end

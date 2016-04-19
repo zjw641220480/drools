@@ -1,10 +1,26 @@
 package com.itcast.zjw.drools.domain;
 
+import java.util.List;
+
 public class Person {
 	private String name;
 	private int age;
 	private String gender;
+	private Student student;
+	private List<Student> students;
 	
+	public List<Student> getStudents() {
+		return students;
+	}
+	public void setStudents(List<Student> students) {
+		this.students = students;
+	}
+	public Student getStudent() {
+		return student;
+	}
+	public void setStudent(Student student) {
+		this.student = student;
+	}
 	public String getGender() {
 		return gender;
 	}

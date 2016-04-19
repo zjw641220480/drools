@@ -37,3 +37,1338 @@ org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/cla
 190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
 190  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
 200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+220  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+230  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+230  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+210  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+220  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+218  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+227  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+234  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+320  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+330  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+330  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+193  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+193  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: person
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+191  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+192  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: person
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+188  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+189  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+191  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+195  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+196  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+207  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+214  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+219  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+187  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+187  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+183  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+183  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+187  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+187  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+190  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+191  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+185  [main] ERROR org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to build index of kmodule.xml url=file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+org.xml.sax.SAXParseException; systemId: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml; lineNumber: 13; columnNumber: 27; cvc-id.2: ID 值 'person' 出现了多次。
+185  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+186  [main] ERROR org.drools.compiler.kie.builder.impl.KieContainerImpl  - Unknown KieSession name: update
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+195  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+202  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+195  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+203  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+206  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+195  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+202  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+193  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+201  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+205  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+997  [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+[6,0]: Duplicate rule name: ruleage
+Rule Compilation error : [Rule name='ruleage']
+	com/itcast/zjw/testdrools/Rule_ruleage1202017234.java (6:318) : Duplicate method defaultConsequence(KnowledgeHelper) in type Rule_ruleage1202017234
+	com/itcast/zjw/testdrools/Rule_ruleage1202017234.java (11:507) : Duplicate method defaultConsequence(KnowledgeHelper) in type Rule_ruleage1202017234
+	com/itcast/zjw/testdrools/Rule_ruleage1202017234.java (3:216) : The type Rule_ruleage1202017234 is already defined
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+213  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1034 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage736021133.java (7:463) : The method setAge(int) is undefined for the type Rule_ruleageage736021133
+	com/itcast/zjw/testdrools/Rule_ruleageage736021133.java (7:473) : Syntax error, insert ";" to complete Statement
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1017 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage1767770524.java (7:464) : The method setAge(int) is undefined for the type Rule_ruleageage1767770524
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1042 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage2031439355.java (7:583) : Syntax error on token ":", . expected
+	com/itcast/zjw/testdrools/Rule_ruleageage2031439355.java (7:584) : The method getAge() in the type Person is not applicable for the arguments (int)
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1045 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage215631072.java (7:582) : Syntax error on token ":", . expected
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1045 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage2073622910.java (7:583) : Syntax error on token ":", . expected
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1030 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage1413806683.java (8:611) : The method println(boolean) in the type PrintStream is not applicable for the arguments (void)
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+203  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+208  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1043 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+[6,0]: Duplicate rule name: ruleageage
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage2004596567.java (6:321) : Duplicate method defaultConsequence(KnowledgeHelper, Person, FactHandle) in type Rule_ruleageage2004596567
+	com/itcast/zjw/testdrools/Rule_ruleageage2004596567.java (14:739) : Duplicate method defaultConsequence(KnowledgeHelper, Person, FactHandle) in type Rule_ruleageage2004596567
+	com/itcast/zjw/testdrools/Rule_ruleageage2004596567.java (3:216) : The type Rule_ruleageage2004596567 is already defined
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1037 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+[6,0]: Duplicate rule name: ruleageage
+Rule Compilation error : [Rule name='ruleageage']
+	com/itcast/zjw/testdrools/Rule_ruleageage2004596567.java (6:321) : Duplicate method defaultConsequence(KnowledgeHelper, Person, FactHandle) in type Rule_ruleageage2004596567
+	com/itcast/zjw/testdrools/Rule_ruleageage2004596567.java (14:739) : Duplicate method defaultConsequence(KnowledgeHelper, Person, FactHandle) in type Rule_ruleageage2004596567
+	com/itcast/zjw/testdrools/Rule_ruleageage2004596567.java (3:216) : The type Rule_ruleageage2004596567 is already defined
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+195  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+202  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1038 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+[9,29]: [ERR 102] Line 9:29 mismatched input '=' in rule "ruleperson"
+[0,0]: Parser returned a null Package
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1046 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+[9,24]: [ERR 101] Line 9:24 no viable alternative at input ')' in rule "ruleperson"
+[0,0]: Parser returned a null Package
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+204  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+208  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+193  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+204  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1013 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseperson
+[9,29]: [ERR 102] Line 9:29 mismatched input '=' in rule "ruleperson"
+[0,0]: Parser returned a null Package
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+194  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+201  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+206  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+195  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+203  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+208  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+206  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+214  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+219  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+205  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1106 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+212  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+222  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1082 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+187  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+197  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+197  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1056 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+217  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1089 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+207  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+217  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+217  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+217  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1085 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+209  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+219  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1082 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+193  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+203  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+203  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+203  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1050 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1087 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1057 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+11   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+192  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+202  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+202  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+202  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1061 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+209  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1066 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+206  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+206  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1080 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+196  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+196  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1078 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+186  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+197  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+197  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+197  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1087 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+192  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+203  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+203  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+203  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1062 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+12   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+206  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+206  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1073 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1071 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+197  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+197  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1095 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1075 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+208  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1095 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+191  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+202  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+202  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+202  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1116 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1077 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1064 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+209  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+217  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+221  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1088 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1073 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+204  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+204  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+214  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1074 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+187  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+197  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+197  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+197  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1060 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+192  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+204  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+204  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+204  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1079 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+204  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+216  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1085 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+207  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1068 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+1    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+6    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+287  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+297  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+300  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+304  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1360 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+18   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+221  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+236  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+236  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+236  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1207 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+218  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+218  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1173 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+218  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1125 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+219  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+219  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+219  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1126 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+203  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+203  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+219  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1110 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+16   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+218  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1126 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+218  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1140 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+15   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+210  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+226  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1131 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+16   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+187  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+203  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+203  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+203  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1030 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+16   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+219  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+219  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+219  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1092 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+470  [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseEval
+[0,0]: Line 5:7 unexpected exception at input ')'. Exception: java.lang.NullPointerException. Stack trace:
+ java.lang.NullPointerException
+	at org.drools.compiler.lang.DRL6Parser.parseEvalExpression(DRL6Parser.java:2845)
+	at org.drools.compiler.lang.DRL6Parser.lhsEval(DRL6Parser.java:2814)
+	at org.drools.compiler.lang.DRL6Parser.lhsUnary(DRL6Parser.java:2348)
+	at org.drools.compiler.lang.DRL6Parser.lhsAnd(DRL6Parser.java:2257)
+	at org.drools.compiler.lang.DRL6Parser.lhsOr(DRL6Parser.java:2113)
+	at org.drools.compiler.lang.DRL6Parser.lhsExpression(DRL6Parser.java:2012)
+	at org.drools.compiler.lang.DRL6Parser.lhs(DRL6Parser.java:1988)
+	at org.drools.compiler.lang.DRL6Parser.rule(DRL6Parser.java:1319)
+	at org.drools.compiler.lang.DRL6Parser.statement(DRL6Parser.java:229)
+	at org.drools.compiler.lang.DRL6Parser.compilationUnit(DRL6Parser.java:109)
+	at org.drools.compiler.lang.AbstractDRLParser.compilationUnit(AbstractDRLParser.java:101)
+	at org.drools.compiler.compiler.DrlParser.compile(DrlParser.java:248)
+	at org.drools.compiler.compiler.DrlParser.parse(DrlParser.java:165)
+	at org.drools.compiler.compiler.DrlParser.parse(DrlParser.java:154)
+	at org.drools.compiler.compiler.DrlParser.parse(DrlParser.java:144)
+	at org.drools.compiler.builder.impl.KnowledgeBuilderImpl.drlToPackageDescr(KnowledgeBuilderImpl.java:504)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl$8.map(CompositeKnowledgeBuilderImpl.java:395)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.buildResource(CompositeKnowledgeBuilderImpl.java:316)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.buildPackageDescr(CompositeKnowledgeBuilderImpl.java:296)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.buildPackages(CompositeKnowledgeBuilderImpl.java:113)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.build(CompositeKnowledgeBuilderImpl.java:104)
+	at org.drools.compiler.kie.builder.impl.AbstractKieModule.buildKnowledgePackages(AbstractKieModule.java:240)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.createKieBase(KieContainerImpl.java:467)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.getKieBase(KieContainerImpl.java:430)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.newKieSession(KieContainerImpl.java:587)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.newKieSession(KieContainerImpl.java:558)
+	at com.itcast.zjw.drools.util.KieServiceUtil.newKieSession(KieServiceUtil.java:14)
+	at com.itcast.zjw.drools.service.evaltest.EvalTest.evalTest(EvalTest.java:11)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+[5,7]: [ERR 107] Line 5:7 mismatched input ')' expecting one of the following tokens: '[package, import, global, declare, function, rule, query]'.
+[0,0]: Parser returned a null Package
+
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+480  [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseEval
+[0,0]: Line 5:9 unexpected exception at input ')'. Exception: java.lang.NullPointerException. Stack trace:
+ java.lang.NullPointerException
+	at org.drools.compiler.lang.DRL6Parser.parseEvalExpression(DRL6Parser.java:2845)
+	at org.drools.compiler.lang.DRL6Parser.lhsEval(DRL6Parser.java:2814)
+	at org.drools.compiler.lang.DRL6Parser.lhsUnary(DRL6Parser.java:2348)
+	at org.drools.compiler.lang.DRL6Parser.lhsAnd(DRL6Parser.java:2257)
+	at org.drools.compiler.lang.DRL6Parser.lhsOr(DRL6Parser.java:2113)
+	at org.drools.compiler.lang.DRL6Parser.lhsExpression(DRL6Parser.java:2012)
+	at org.drools.compiler.lang.DRL6Parser.lhs(DRL6Parser.java:1988)
+	at org.drools.compiler.lang.DRL6Parser.rule(DRL6Parser.java:1319)
+	at org.drools.compiler.lang.DRL6Parser.statement(DRL6Parser.java:229)
+	at org.drools.compiler.lang.DRL6Parser.compilationUnit(DRL6Parser.java:109)
+	at org.drools.compiler.lang.AbstractDRLParser.compilationUnit(AbstractDRLParser.java:101)
+	at org.drools.compiler.compiler.DrlParser.compile(DrlParser.java:248)
+	at org.drools.compiler.compiler.DrlParser.parse(DrlParser.java:165)
+	at org.drools.compiler.compiler.DrlParser.parse(DrlParser.java:154)
+	at org.drools.compiler.compiler.DrlParser.parse(DrlParser.java:144)
+	at org.drools.compiler.builder.impl.KnowledgeBuilderImpl.drlToPackageDescr(KnowledgeBuilderImpl.java:504)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl$8.map(CompositeKnowledgeBuilderImpl.java:395)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.buildResource(CompositeKnowledgeBuilderImpl.java:316)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.buildPackageDescr(CompositeKnowledgeBuilderImpl.java:296)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.buildPackages(CompositeKnowledgeBuilderImpl.java:113)
+	at org.drools.compiler.builder.impl.CompositeKnowledgeBuilderImpl.build(CompositeKnowledgeBuilderImpl.java:104)
+	at org.drools.compiler.kie.builder.impl.AbstractKieModule.buildKnowledgePackages(AbstractKieModule.java:240)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.createKieBase(KieContainerImpl.java:467)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.getKieBase(KieContainerImpl.java:430)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.newKieSession(KieContainerImpl.java:587)
+	at org.drools.compiler.kie.builder.impl.KieContainerImpl.newKieSession(KieContainerImpl.java:558)
+	at com.itcast.zjw.drools.util.KieServiceUtil.newKieSession(KieServiceUtil.java:14)
+	at com.itcast.zjw.drools.service.evaltest.EvalTest.evalTest(EvalTest.java:11)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
+
+[5,9]: [ERR 107] Line 5:9 mismatched input ')' expecting one of the following tokens: '[package, import, global, declare, function, rule, query]'.
+[0,0]: Parser returned a null Package
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+200  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1050 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1072 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1086 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+210  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+220  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1137 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1134 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+205  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+214  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1128 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+210  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+220  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+220  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1139 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+209  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+217  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+218  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+221  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1120 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+213  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1139 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+206  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1116 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+192  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+202  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+202  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+212  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1102 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+227  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+236  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+239  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+243  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1239 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+214  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+222  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+224  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+226  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1196 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+223  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+231  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+233  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+236  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1207 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+199  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+203  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1047 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseOperator
+Rule Compilation error : [Rule name='testContains']
+	com/itcast/zjw/testdrools/Rule_testContains646485770.java (7:690) : The method getName() is undefined for the type Student
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+207  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+215  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+217  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1123 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+191  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+201  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+201  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1051 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseOperator
+[6,0]: Duplicate rule name: testContains
+Rule Compilation error : [Rule name='testContains']
+	com/itcast/zjw/testdrools/Rule_testContains1266275173.java (6:323) : Duplicate method defaultConsequence(KnowledgeHelper, Person, FactHandle, Student, FactHandle) in type Rule_testContains1266275173
+	com/itcast/zjw/testdrools/Rule_testContains1266275173.java (12:770) : Duplicate method defaultConsequence(KnowledgeHelper, Person, FactHandle, Student, FactHandle) in type Rule_testContains1266275173
+	com/itcast/zjw/testdrools/Rule_testContains1266275173.java (3:216) : The type Rule_testContains1266275173 is already defined
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+197  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1124 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+205  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+214  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+486  [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseKcontext
+[8,24]: [ERR 102] Line 8:24 mismatched input '=' in rule "testKcontext"
+[0,0]: Parser returned a null Package
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+190  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+200  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+200  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1071 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseKcontext
+Rule Compilation error : [Rule name='testKcontext']
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (7:561) : The method modify(Student) is undefined for the type Rule_testKcontext637740895
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (7:576) : Syntax error, insert ";" to complete Statement
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (8:583) : The method setSname(String) is undefined for the type Rule_testKcontext637740895
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (9:614) : The method setSage(int) is undefined for the type Rule_testKcontext637740895
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (11:646) : The method pringln(String) is undefined for the type PrintStream
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+205  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+213  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1073 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseKcontext
+Rule Compilation error : [Rule name='testKcontext']
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (7:561) : The method modify(Student) is undefined for the type Rule_testKcontext637740895
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (7:576) : Syntax error, insert ";" to complete Statement
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (8:583) : The method setSname(String) is undefined for the type Rule_testKcontext637740895
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (9:614) : The method setSage(int) is undefined for the type Rule_testKcontext637740895
+	com/itcast/zjw/testdrools/Rule_testKcontext637740895.java (11:646) : The method pringln(String) is undefined for the type PrintStream
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+211  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+219  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+220  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+224  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1082 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseKcontext
+Rule Compilation error : [Rule name='testKcontext']
+	com/itcast/zjw/testdrools/Rule_testKcontext1252411090.java (7:469) : The method pringln(String) is undefined for the type PrintStream
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+195  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+204  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+206  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+208  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1057 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseKcontext
+Rule Compilation error : [Rule name='testKcontext']
+	com/itcast/zjw/testdrools/Rule_testKcontext1362668876.java (7:562) : The method modify(Student) is undefined for the type Rule_testKcontext1362668876
+	com/itcast/zjw/testdrools/Rule_testKcontext1362668876.java (7:577) : Syntax error, insert ";" to complete Statement
+	com/itcast/zjw/testdrools/Rule_testKcontext1362668876.java (8:584) : The method setSname(String) is undefined for the type Rule_testKcontext1362668876
+	com/itcast/zjw/testdrools/Rule_testKcontext1362668876.java (9:615) : The method setSage(int) is undefined for the type Rule_testKcontext1362668876
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+213  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1130 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+205  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+214  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1137 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+212  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+213  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+216  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1090 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseKcontext
+Rule Compilation error : [Rule name='testKcontext']
+	com/itcast/zjw/testdrools/Rule_testKcontext1340120989.java (7:562) : The method modify(Student) is undefined for the type Rule_testKcontext1340120989
+	com/itcast/zjw/testdrools/Rule_testKcontext1340120989.java (7:577) : Syntax error, insert ";" to complete Statement
+	com/itcast/zjw/testdrools/Rule_testKcontext1340120989.java (8:584) : The method setSname(String) is undefined for the type Rule_testKcontext1340120989
+	com/itcast/zjw/testdrools/Rule_testKcontext1340120989.java (8:608) : Syntax error, insert ";" to complete BlockStatements
+	com/itcast/zjw/testdrools/Rule_testKcontext1340120989.java (9:614) : The method setSage(int) is undefined for the type Rule_testKcontext1340120989
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1076 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseKcontext
+Rule Compilation error : [Rule name='testKcontext']
+	com/itcast/zjw/testdrools/Rule_testKcontext107233632.java (7:561) : The method modify(Student) is undefined for the type Rule_testKcontext107233632
+	com/itcast/zjw/testdrools/Rule_testKcontext107233632.java (7:576) : Syntax error, insert ";" to complete Statement
+	com/itcast/zjw/testdrools/Rule_testKcontext107233632.java (8:583) : The method setSname(String) is undefined for the type Rule_testKcontext107233632
+	com/itcast/zjw/testdrools/Rule_testKcontext107233632.java (8:607) : Syntax error, insert ";" to complete BlockStatements
+	com/itcast/zjw/testdrools/Rule_testKcontext107233632.java (9:613) : The method setSage(int) is undefined for the type Rule_testKcontext107233632
+	com/itcast/zjw/testdrools/Rule_testKcontext107233632.java (9:623) : Syntax error, insert ";" to complete Statement
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+208  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1141 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+213  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+222  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+224  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+227  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1200 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+208  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+208  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1022 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [19-04-2016] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective']
+
+Rule Compilation error : [Rule name='ruledate-effective']
+	com/itcast/zjw/testdrools/Rule_ruledate$u45$effective121400.java (13:632) : Systemt.out cannot be resolved to a type
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+212  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+214  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+217  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1055 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [19-04-2016] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+213  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1122 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+209  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1044 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [19-四月-2016] it should follow: [yyyy-MM-dd] : [Rule name='ruledate-effective']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+213  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1030 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+
+1    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1127 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1052 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+211  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1080 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+208  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+213  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1029 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+208  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+216  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+217  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1113 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+203  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+212  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+213  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+216  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1041 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1112 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+213  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1104 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1121 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+198  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1067 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Unable to resolve ObjectType 'Studnet' : [Rule name='ruledate']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+201  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+201  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1059 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Unable to resolve ObjectType 'Student' : [Rule name='ruledate']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+207  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+216  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+217  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+220  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1156 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+212  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1085 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+Wrong date-expires value: Invalid date input format: [2016-04-30] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+Unable to Analyse Expression date < "2016-04-20":
+[Error: Comparison operation requires compatible types. Found class java.util.Date and class java.lang.String]
+[Near : {... date < "2016-04-20" ....}]
+                    ^ : [Rule name='ruledate']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1145 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+210  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1106 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+Wrong date-expires value: Invalid date input format: [2016-04-30] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+212  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+213  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+217  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1160 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+212  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+212  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1148 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+196  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+205  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+207  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+210  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1130 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+205  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+213  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+215  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+218  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1096 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+Wrong date-expires value: Invalid date input format: [2016-04-30] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+Unable to Analyse Expression date < "2016-04-30":
+[Error: Comparison operation requires compatible types. Found class java.util.Date and class java.lang.String]
+[Near : {... date < "2016-04-30" ....}]
+                    ^ : [Rule name='ruledate']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1163 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+211  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1101 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1099 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+3    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+204  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+220  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+222  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+225  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1053 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseDate
+Wrong date-effective value: Invalid date input format: [2016-04-16] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+Wrong date-expires value: Invalid date input format: [2016-04-30] it should follow: [dd-MMM-yyyy] : [Rule name='ruledate-effective-format']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+10   [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+200  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+321  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+321  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+321  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1171 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+Unable to Analyse Expression date < "2016-04-30":
+[Error: Comparison operation requires compatible types. Found class java.util.Date and class java.lang.String]
+[Near : {... date < "2016-04-30" ....}]
+                    ^ : [Rule name='ruledate']
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+215  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1139 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+202  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+212  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+219  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1137 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+0    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+215  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+223  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+224  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+228  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1090 [main] ERROR org.drools.compiler.kie.builder.impl.AbstractKieModule  - Unable to build KieBaseModel:baseAttribute
+[28,0]: Duplicate rule name: ruleactivation-grop张
+Rule Compilation error : [Rule name='ruleactivation-grop张']
+	com/itcast/zjw/test/Rule_ruleactivation$u45$grop张795856185.java (6:366) : Duplicate method defaultConsequence(KnowledgeHelper, Student, FactHandle) in type Rule_ruleactivation$u45$grop张795856185
+	com/itcast/zjw/test/Rule_ruleactivation$u45$grop张795856185.java (12:718) : Duplicate method defaultConsequence(KnowledgeHelper, Student, FactHandle) in type Rule_ruleactivation$u45$grop张795856185
+	com/itcast/zjw/test/Rule_ruleactivation$u45$grop张795856185.java (3:248) : The type Rule_ruleactivation$u45$grop张795856185 is already defined
+
+
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+204  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+212  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+214  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+217  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1151 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+199  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+207  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+209  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+212  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1127 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+209  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+211  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+214  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1139 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Found kmodule: file:/D:/newworkspace/drools/target/classes/META-INF/kmodule.xml
+2    [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - KieModule URL type=file url=/D:/newworkspace/drools/target/classes
+201  [main] WARN  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Unable to find pom.properties in /D:/newworkspace/drools/target/classes
+210  [main] INFO  org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Recursed up folders, found and used pom.xml D:\newworkspace\drools\pom.xml
+219  [main] DEBUG org.drools.compiler.kie.builder.impl.ClasspathKieProject  - Discovered classpath module com.zhuxin:drools:0.0.1-SNAPSHOT
+223  [main] INFO  org.drools.compiler.kie.builder.impl.KieRepositoryImpl  - KieModule was added: FileKieModule[releaseId=com.zhuxin:drools:0.0.1-SNAPSHOT,file=D:\newworkspace\drools\target\classes]
+1157 [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in PHREAK mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode
+0    [main] DEBUG org.drools.core.impl.KnowledgeBaseImpl  - Starting Engine in RETEOO mode

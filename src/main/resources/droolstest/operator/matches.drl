@@ -1,0 +1,12 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Student;
+
+rule 'testContains'
+	when
+		$student:Student(sname matches "李.*");
+	then
+		System.out.println($student.getSname());
+		System.out.println("正则表达式运行");
+end
