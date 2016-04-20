@@ -1,4 +1,4 @@
-package com.itcast.zjw.drools.service.evaltest;
+package com.itcast.zjw.drools.service.eval;
 
 import org.junit.Test;
 import org.kie.api.runtime.KieSession;

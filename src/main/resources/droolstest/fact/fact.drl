@@ -1,0 +1,50 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Student;
+
+declare Address
+	city : String
+	addressName : String
+end
+declare TestFact
+	name : String
+	student : Student
+end
+rule "setFact"
+	salience 2
+	when
+		eval(true)
+	then
+		Address address = new Address();
+		address.setCity("中国上海");
+		address.setAddressName("徐汇区");
+		insert(address);
+end
+
+rule "getFact"
+	salience 1
+	when
+		$address : Address();
+	then
+		System.out.println($address.getCity()+"\t"+$address.getAddressName());
+end
+rule "setTestFact"
+	salience 4
+	when
+		$student : Student()
+		eval(true)
+	then
+		TestFact testFact = new TestFact();
+		testFact.setName("testFact");
+		testFact.setStudent($student);
+		insert(testFact);
+end
+rule "getTestFact"
+	salience 3
+	when
+		$testFact : TestFact()
+	then
+		System.out.println("运行pojo套pojo类型的对象");
+		System.out.println($testFact.getName()+"\t"+$testFact.getStudent().getSname());
+end

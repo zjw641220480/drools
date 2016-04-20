@@ -12,10 +12,12 @@ import com.itcast.zjw.drools.util.KieServiceUtil;
 
 public class KieService {
 	public static void main(String[] args) {
+		//开始的三行代码是固定的,用来加载keymodel.xml配置文件;
 		KieServices kieServices = KieServices.Factory.get();
 		
 		KieContainer kieContainer = kieServices.getKieClasspathContainer();
 		kieContainer = kieServices.getKieClasspathContainer();
+		//根据keymodel.xml配置文件来获取某个kieSession;是基于包的
 		KieSession kieSession = kieContainer.newKieSession("update");
 		/*Person person = new Person();
 		person.setAge(30);

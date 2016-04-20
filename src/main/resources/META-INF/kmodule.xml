@@ -33,4 +33,10 @@
 	<kbase name="baseDate" packages="droolstest.date">
 		<ksession name="dateSession"></ksession>
 	</kbase>
+	<kbase name="basefunction" packages="droolstest.function">
+		<ksession name="functionSession"></ksession>
+	</kbase>
+	<kbase name="basefact" packages="droolstest.fact">
+		<ksession name="factSession"></ksession>
+	</kbase>
 </kmodule>

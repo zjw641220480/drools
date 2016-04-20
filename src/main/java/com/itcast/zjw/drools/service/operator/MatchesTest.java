@@ -1,4 +1,4 @@
-package com.itcast.zjw.drools.service.operatortest;
+package com.itcast.zjw.drools.service.operator;
 
 import org.junit.Test;
 import org.kie.api.runtime.KieSession;

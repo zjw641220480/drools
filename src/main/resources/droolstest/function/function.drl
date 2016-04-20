@@ -1,0 +1,15 @@
+package com.itcast.zjw.testdrools
+
+import com.itcast.zjw.drools.domain.Person;
+import com.itcast.zjw.drools.domain.Student;
+
+function void myFirstFunction(String name){
+	System.out.println("function运行\t"+name);
+}
+
+rule "test"
+	when
+		$student:Student();
+	then
+		myFirstFunction($student.getSname());
+end

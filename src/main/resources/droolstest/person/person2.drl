@@ -1,12 +1,13 @@
-package com.itcast.zjw.testdrools
+package com.itcast.zjw.person
 
 import com.itcast.zjw.drools.domain.Person;
 import com.itcast.zjw.drools.domain.Classes;
 
 rule "ruleagename"
-	no-loop true
+	lock-on-active true
 	when 
 		$Person:Person(name=="zhangsan")
 	then
+		System.out.println("单独的姓名符合条件");
 		System.out.println("name的值未zhangsan");
 end

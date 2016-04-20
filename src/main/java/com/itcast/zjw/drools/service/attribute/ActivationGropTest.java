@@ -1,4 +1,4 @@
-package com.itcast.zjw.drools.service.activationgrop;
+package com.itcast.zjw.drools.service.attribute;
 
 import org.junit.Test;
 

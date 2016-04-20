@@ -1,9 +1,10 @@
-package com.itcast.zjw.testdrools
+package com.itcast.zjw.person
 
 import com.itcast.zjw.drools.domain.Person;
 import com.itcast.zjw.drools.domain.Classes;
 
 rule "ruleageage"
+	//单独的年龄大于20
 	no-loop true
 	when 
 		$Person:Person(age>20)
@@ -11,5 +12,5 @@ rule "ruleageage"
 		System.out.println($Person.getAge());
 		$Person.setAge($Person.getAge()+100);
 		//System.out.println($Person.setAge(100));
-		System.out.println("年龄大于20");
+		System.out.println("单独的年龄符合条件");
 end

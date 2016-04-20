@@ -1,8 +1,9 @@
-package com.itcast.zjw.drools.service;
+package com.itcast.zjw.drools.service.complexpojo;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import org.junit.Test;
 import org.kie.api.KieServices;
 import org.kie.api.runtime.KieContainer;
 import org.kie.api.runtime.KieSession;
@@ -11,7 +12,11 @@ import com.itcast.zjw.drools.domain.Person;
 import com.itcast.zjw.drools.domain.Student;
 
 public class ComplexPojo {
-	public static void main(String[] args) {
+	/**
+	 * 高级规则,pojo套pojo和List在drools中如何应用
+	 */
+	@Test
+	public void testComplexPojo() {
 		KieServices kieServices = KieServices.Factory.get();
 		KieContainer kieContainer = kieServices.getKieClasspathContainer();
 		KieSession kieSession = kieContainer.newKieSession("complexpojo");
@@ -36,6 +41,6 @@ public class ComplexPojo {
 		//kieSession.insert(studenta);
 		kieSession.fireAllRules();
 		kieSession.dispose();
-		System.out.println("ComplexPojo.main()");
+		System.out.println("ComplexPojo.main(),end");
 	}
 }

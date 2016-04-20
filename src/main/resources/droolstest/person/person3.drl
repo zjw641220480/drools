@@ -1,15 +1,16 @@
-package com.itcast.zjw.testdrools
+package com.itcast.zjw.myperson
 
 import com.itcast.zjw.drools.domain.Person;
 import com.itcast.zjw.drools.domain.Classes;
 
 rule "ruleperson"
+	//这一个规则测试的是:两个条件同时满足的情况;
 	no-loop true
 	when 
 		//先对条件多的进行判断,然后判断条件少的
 		$Person:Person(age>20&&name=="zhangsan")
 	then
-		System.out.println("同时满足");
+		System.out.println("年龄和姓名两个条件同时满足");
 		$Person.setAge($Person.getAge()+200);
 		//System.out.println($Person.setAge(100));
 		//System.out.println("年龄大于20");

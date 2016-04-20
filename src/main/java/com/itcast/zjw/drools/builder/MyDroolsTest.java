@@ -18,9 +18,16 @@ import org.drools.runtime.rule.QueryResults;
 
 import com.itcast.zjw.drools.domain.Person;
 
+/**
+ * 涉及到的类主要有:KnowledgeBuilder,KnowledgeBase,StatefulKnowledgeSession
+ * @author Administrator
+ *
+ */
 public class MyDroolsTest {
 	public static void main(String[] args) {
+		//第一步产生KnowledgeBuilder
 		KnowledgeBuilder knowledgeBuilder = KnowledgeBuilderFactory.newKnowledgeBuilder();
+		//第二步使用KnowledgeBuilder来加载规则文件
 		knowledgeBuilder.add(ResourceFactory.newClassPathResource("/droolstest/eval/eval.drl", MyDroolsTest.class), ResourceType.DRL);
 		if(knowledgeBuilder.hasErrors()){
 			System.out.println("规则中存在错误,错误如下");
@@ -30,14 +37,18 @@ public class MyDroolsTest {
 				System.out.println(iterator.next());
 			}
 		}
+		//第三步:根据KnowledgeBuilder来获取规则文件包
 		Collection<KnowledgePackage> knowledgePackage = knowledgeBuilder.getKnowledgePackages();
-		
-		//KnowledgeBase knowledgeBase = knowledgeBuilder.newKnowledgeBase();
+		//第四步:根据knowledgeBuilder来生成KnowledgeBase,这个时候没有了全局配置文件,但是同样的不需要自己再手动的添加规则包
+		KnowledgeBase knowledgeBase1 = knowledgeBuilder.newKnowledgeBase();
 		
 		KnowledgeBaseConfiguration knowledgeBaseConfiguration = KnowledgeBaseFactory.newKnowledgeBaseConfiguration();
 		knowledgeBaseConfiguration.setProperty("org.drools.sequential", "true");
+		
 		KnowledgeBase knowledgeBase2 = KnowledgeBaseFactory.newKnowledgeBase(knowledgeBaseConfiguration);
+		
 		knowledgeBase2.addKnowledgePackages(knowledgePackage);
+		//第五步:由KnowledgeBase来得到StatefulKnowledgeSession
 		StatefulKnowledgeSession statefulKnowledgeSession = knowledgeBase2.newStatefulKnowledgeSession();
 		//全局对象设置不成功
 		//statefulKnowledgeSession.setGlobal("globalTest", new Object());

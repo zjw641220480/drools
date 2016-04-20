@@ -1,4 +1,4 @@
-package com.itcast.zjw.drools.service.operatortest;
+package com.itcast.zjw.drools.service.operator;
 
 import java.util.ArrayList;
 import java.util.List;
