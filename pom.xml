@@ -16,7 +16,6 @@
 		<stlf.version>1.5.10</stlf.version>
 	</properties>
 	<dependencies>
-
 		<!-- Test -->
 		<dependency>
 			<groupId>junit</groupId>
